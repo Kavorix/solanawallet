@@ -139,9 +139,5 @@ $ yarn
 $ expo start
 ~~~
 
-Or install apk for Android:
-
-<img src="https://github.com/Kavorix/solanawallet/blob/master/wallet/download.png" width=20% height=20%>
-
 
 
