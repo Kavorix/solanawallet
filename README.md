@@ -9,11 +9,11 @@ This is a simple Solana Wallet Cross-Platform App built with Expo, Web3 & React 
 These screens show using the Biometric Prompt (Android) or FaceID and TouchID (iOS) to authenticate the user with a fingerprint or face scan. Later,automatically create mnemonic phrase or recovery wallet with mnemonic phrase. Save and load mnemonics from local securely store on the device.
 
 <div align="center">
-<img src="https://github.com/kavorix/image/raw/master/wallet/authenticate.gif" width=20% height=20%> 
+<img src="https://github.com/kavorix/solanawallet/wallet/authenticate.gif" width=20% height=20%> 
 &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp 
-<img src="https://github.com/kavorix/image/raw/master/wallet/auto_set_seed.gif" width=20% height=20%> 
+<img src="https://github.com/kavorix/solanawallet/wallet/auto_set_seed.gif" width=20% height=20%> 
 &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp 
-<img src="https://github.com/kavorix/image/raw/master/wallet/recovery_seed.gif" width=20% height=20%>  
+<img src="https://github.com/kavorix/solanawallet/wallet/recovery_seed.gif" width=20% height=20%>  
 </div>
   
 ### Dashboard
@@ -21,11 +21,11 @@ These screens show using the Biometric Prompt (Android) or FaceID and TouchID (i
 These screens shows the accounts SOL/SPL-token balances,SOL/SPL-token deposits, SOL/SPL-token transfers. Camera support with QR code scanning for Sol/SPL-token deposit, transfer. Multiple wallet accounts add,delete,refresh.
 
 <div align="center">
-<img src="https://github.com/kavorix/image/raw/master/wallet/dashboard.gif" width=20% height=20%> 
+<img src="https://github.com/kavorix/solanawallet/wallet/dashboard.gif" width=20% height=20%> 
 &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp 
-<img src="https://github.com/kavorix/image/raw/master/wallet/mutil_accounts.gif" width=20% height=20%> 
+<img src="https://github.com/kavorix/solanawallet/wallet/mutil_accounts.gif" width=20% height=20%> 
 &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp 
-<img src="https://github.com/kavorix/image/raw/master/wallet/send.gif" width=20% height=20%>  
+<img src="https://github.com/kavorix/solanawallet/wallet/send.gif" width=20% height=20%>  
 </div>
 
 ### Airdrop and Mint
@@ -33,11 +33,11 @@ These screens shows the accounts SOL/SPL-token balances,SOL/SPL-token deposits, 
 These screens show minting new tokens, airdropping Sol/Usdc. Convenient for developers
 
 <div align="center">
-<img src="https://github.com/kavorix/image/raw/master/wallet/mint.gif" width=20% height=20%> 
+<img src="https://github.com/kavorix/solanawallet/wallet/mint.gif" width=20% height=20%> 
 &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp 
-<img src="https://github.com/kavorix/image/raw/master/wallet/airdrop.gif" width=20% height=20%> 
+<img src="https://github.com/kavorix/solanawallet/wallet/airdrop.gif" width=20% height=20%> 
 &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp 
-<img src="https://github.com/kavorix/image/raw/master/wallet/airdrop_usdc.gif" width=20% height=20%>  
+<img src="https://github.com/kavorix/solanawallet/wallet/airdrop_usdc.gif" width=20% height=20%>  
 </div>
 
 
@@ -48,9 +48,9 @@ When someone wants to transfer tokens to a particular user, they do it in 2 step
 If they fat-fingered receiver's address, or if receiver cannot find his keys anymore, they can safely pull back his Safe Payment before the transfer is complete.This smart contract repository:https://github.com/kavorix/safe-transfer.git 
 
 <div align="center">
-<img src="https://github.com/kavorix/image/raw/master/wallet/safe_transfer.gif" width=20% height=20%> 
+<img src="https://github.com/kavorix/solanawallet/wallet/safe_transfer.gif" width=20% height=20%> 
 &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp 
-<img src="https://github.com/kavorix/image/raw/master/wallet/safe_transfer_confirm.gif" width=20% height=20%>  
+<img src="https://github.com/kavorix/solanawallet/wallet/safe_transfer_confirm.gif" width=20% height=20%>  
 </div>
 
 
@@ -60,9 +60,9 @@ trusted third party would. This smart contract repository:
 https://github.com/kavorix/safe_exchange.git 
 
 <div align="center">
-<img src="https://github.com/kavorix/image/raw/master/wallet/safe_exchange.gif" width=20% height=20%> 
+<img src="https://github.com/kavorix/solanawallet/wallet/safe_exchange.gif" width=20% height=20%> 
 &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp 
-<img src="https://github.com/kavorix/image/raw/master/wallet/safe_exchange_confirm.gif" width=20% height=20%>  
+<img src="https://github.com/kavorix/solanawallet/wallet/safe_exchange_confirm.gif" width=20% height=20%>  
 
 </div>
 
@@ -71,11 +71,11 @@ https://github.com/kavorix/safe_exchange.git
  History, remove recovery phrase, change Web3 explorer
 
 <div align="center">
-<img src="https://github.com/kavorix/image/raw/master/wallet/history.gif" width=20% height=20%> 
+<img src="https://github.com/kavorix/solanawallet/wallet/history.gif" width=20% height=20%> 
 &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
-<img src="https://github.com/kavorix/image/raw/master/wallet/remove_seed.gif" width=20% height=20%>  
+<img src="https://github.com/kavorix/solanawallet/wallet/remove_seed.gif" width=20% height=20%>  
 &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp
-<img src="https://github.com/kavorix/image/raw/master/wallet/change_explorer.gif" width=20% height=20%> 
+<img src="https://github.com/kavorix/solanawallet/wallet/change_explorer.gif" width=20% height=20%> 
 </div>
 
 #### Request Airdrop
@@ -141,7 +141,7 @@ $ expo start
 
 Or install apk for Android:
 
-<img src="https://github.com/kavorix/image/raw/master/wallet/download.png" width=20% height=20%>
+<img src="https://github.com/kavorix/solanawallet/wallet/download.png" width=20% height=20%>
 
 
 
